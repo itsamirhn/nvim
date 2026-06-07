@@ -17,5 +17,4 @@ o.undofile = true
 o.termguicolors = true
 o.splitright = true
 o.splitbelow = true
-o.clipboard = 'unnamedplus'
 o.scrolloff = 8
