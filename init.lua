@@ -2,6 +2,7 @@ vim.g.mapleader = ' '
 vim.g.maplocalleader = '\\'
 
 require('config.options')
+require('config.keymaps')
 
 vim.pack.add({
   'https://github.com/ibhagwan/fzf-lua',
